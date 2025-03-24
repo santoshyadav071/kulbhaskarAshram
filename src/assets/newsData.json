@@ -1,0 +1,52 @@
+{
+    "news": [
+      {
+        "id": 1,
+        "title": "University Wins National Award",
+        "date": "October 10, 2023",
+        "description": "The university has been awarded the Best Educational Institution for 2023.",
+        "additionalContent": "The university has consistently ranked among the top institutions in the nation, with notable achievements in fields such as engineering, medicine, and the humanities. This latest accolade further solidifies its reputation as a leader in higher education.",
+        "image": "/award.jpeg"
+      },
+      {
+        "id": 2,
+        "title": "New Research Lab Inaugurated",
+        "date": "October 5, 2023",
+        "description": "A state-of-the-art research lab was inaugurated by the Vice Chancellor.",
+        "additionalContent": "The inauguration ceremony was attended by prominent academics, industry leaders, and government officials, who lauded the university's efforts to create a hub for groundbreaking research. The lab is expected to play a pivotal role in addressing global challenges, from climate change to healthcare advancements..",
+        "image": "/lab.jpeg"
+      },
+      {
+        "id": 3,
+        "title": "Admissions Open for 2025",
+        "date": "October 1, 2024",
+        "description": "Apply now for undergraduate and postgraduate programs for the academic year 2024.",
+        "additionalContent": "The university is thrilled to announce that admissions for the 2024 academic year are now open! Prospective students can apply for a wide range of undergraduate and postgraduate programs designed to cater to diverse interests and career aspirations. Whether you're aiming to pursue a degree in engineering, medicine, humanities, business, or the sciences, the university offers world-class education, state-of-the-art facilities, and a vibrant campus life.",
+        "image": "/admisiion.jpeg"
+      },
+      {
+        "id": 4,
+        "title": "Workshop on Artificial Intelligence",
+        "date": "September 25, 2023",
+        "description": "A two-day workshop on AI and Machine Learning was conducted by the Computer Science Department.",
+        "additionalContent": "The Computer Science Department successfully conducted a two-day workshop on Artificial Intelligence (AI) and Machine Learning (ML), bringing together students, faculty, and industry experts to explore the latest advancements and applications in these transformative fields. The event, held on September 23-24, 2023, featured hands-on sessions, expert talks, and interactive discussions, making it a resounding success.",
+        "image": "/ai.jpeg"
+      },
+      {
+        "id": 5,
+        "title": "Sports Week 2023",
+        "date": "September 20, 2023",
+        "description": "The annual sports week concluded with exciting matches and competitions.",
+        "additionalContent": "The university’s annual Sports Week concluded on a high note, with students, faculty, and staff coming together to celebrate athleticism, teamwork, and sportsmanship. Held from September 15 to September 19, 2023, the event featured a wide range of sports and activities, creating an atmosphere of excitement and camaraderie across the campus.",
+        "image": "/sport.jpeg"
+      },
+      {
+        "id": 6,
+        "title": "Guest Lecture by Industry Expert",
+        "date": "September 15, 2023",
+        "description": "An industry expert delivered a guest lecture on 'Future of Technology in Business'.",
+        "additionalContent": "The university hosted an insightful guest lecture on the Future of Technology in Business, delivered by Mr. Rajesh Kumar, a renowned industry expert and Chief Technology Officer (CTO) at a leading global tech firm. The event, organized by the Department of Business and Technology, attracted a large audience of students, faculty, and professionals eager to gain insights into the evolving role of technology in shaping the business landscape..",
+        "image": "/lecture.jpeg"
+      }
+    ]
+  }

@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "title": "Admission Form",
+      "description": "Download the admission form for the academic year 2024-2025.",
+      "fileUrl": "/pdfs/Admissionform.pdf",
+      "category": "Admission Forms",
+      "fileType": "pdf"
+    },
+    {
+      "id": 2,
+      "title": "Course Brochure",
+      "description": "Download the brochure for all available courses.",
+      "fileUrl": "/pdfs/course.pdf",
+      "category": "Course Brochures",
+      "fileType": "pdf"
+    },
+    {
+      "id": 3,
+      "title": "Syllabus",
+      "description": "Download the syllabus for all programs.",
+      "fileUrl": "/pdfs/syllabus.pdf",
+      "category": "Syllabus",
+      "fileType": "pdf"
+    },
+    {
+      "id": 4,
+      "title": "Fee Structure",
+      "description": "Download the fee structure for the current academic year.",
+      "fileUrl": "/pdfs/fee-structure.pdf",
+      "category": "Fee Structure",
+      "fileType": "pdf"
+    },
+    {
+      "id": 5,
+      "title": "Hostel Application Form",
+      "description": "Download the hostel application form.",
+      "fileUrl": "/pdfs/hostel-form.pdf",
+      "category": "Admission Forms",
+      "fileType": "pdf"
+    },
+    {
+      "id": 6,
+      "title": "Scholarship Form",
+      "description": "Download the scholarship application form.",
+      "fileUrl": "/pdfs/scholarship-form.pdf",
+      "category": "Admission Forms",
+      "fileType": "pdf"
+    },
+    {
+      "id": 7,
+      "title": "Exam Time Table",
+      "description": "Download the exam time table for the current semester.",
+      "fileUrl": "/pdfs/exam-timetable.pdf",
+      "category": "Syllabus",
+      "fileType": "pdf"
+    }
+  ]

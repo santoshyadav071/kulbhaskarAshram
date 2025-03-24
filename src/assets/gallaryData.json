@@ -1,0 +1,39 @@
+[
+    {
+      "image": "/im1.jpg",
+      "subtitle": "Discover the routes to every department",
+      "title": "Discover the routes to every department",
+      "description": "Explore the clear paths that lead to each department, guiding you to your destination on campus."
+    },
+    {
+      "image": "/im2.jpg",
+      "subtitle": "Plants secured for study",
+      "title": "Agriculture Research",
+      "description": "Explore plants safely secured in nets, creating an ideal environment for agricultural research and growth."
+    },
+    {
+      "image": "/im3.jpg",
+      "subtitle": "A serene environment for growth.",
+      "title": "Green Spaces",
+      "description": "Explore the lush greenery and trees, creating a peaceful space for learning and reflection."
+    },
+    {
+      "image": "/im4.jpg",
+      "subtitle": "Departments amidst nature.",
+      "title": "Campus Greenery",
+      "description": "Discover how our college departments are surrounded by lush green trees, blending nature with learning."
+    },
+    {
+      "image": "/im5.jpg",
+      "subtitle": "A place for play and recreation.",
+      "title": "Sports Field",
+      "description": "Our spacious field offers the perfect setting for games like cricket, promoting fitness and team spirit."
+    },
+    {
+      "image": "/im6.jpg",
+      "subtitle": "Convenient parking for all",
+      "title": "Parking Area",
+      "description": "Our designated car and bike parking spaces ensure a hassle-free experience for students and staff."
+    }
+  ]
+  

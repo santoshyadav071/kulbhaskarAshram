@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "BCA( Bachelor of Computer Applications)",
+    "category": "COURSE",
+    "description": "The BCA program is a three-year undergraduate course that prepares students for careers in IT and software development. It covers programming, database management, web development, and emerging technologies like AI and Cloud Computing, with opportunities for internships and placements.",
+    "image": "bca.webp",
+    "fees": "₹50,000/Year"
+  },
+  {
+    "id": 2,
+    "title": "BCOM(Bachelor of Commerce)",
+    "category": "COURSE",
+    "description": "BCom (Bachelor of Commerce) is a three-year undergraduate program that focuses on business, finance, accounting, and economics. It provides students with the knowledge and skills necessary for careers in finance, banking, auditing, and management, with opportunities for internships and placements in various sectors.",
+    "image": "/bcom.webp",
+    "fees": "₹40,000/Year"
+  },
+  {
+    "id": 3,
+    "title": "BBA(Bachelor of Business Administration)",
+    "category": "COURSE",
+    "description": "BBA (Bachelor of Business Administration) is a three-year undergraduate program that equips students with foundational knowledge in business management, marketing, finance, and entrepreneurship. It prepares individuals for leadership roles in the corporate world, with opportunities for internships and placements in diverse industries.",
+    "image": "/bba.webp",
+    "fees": "₹55,000/Year"
+  },
+  {
+    "id": 4,
+    "title": "BSC(MATH)( Bachelor of Science in Mathematics.)",
+    "category": "COURSE",
+    "description": "BSc Mathematics (Bachelor of Science in Mathematics) is a three-year undergraduate program that provides foundational knowledge in advanced mathematics, statistics, and analytical problem-solving. It prepares individuals for careers in academia, research, data science, and various industries requiring strong quantitative and logical skills.",
+    "image": "/math.webp",
+    "fees": "₹55,000/Year"
+  },
+  {
+    "id": 5,
+    "title": "BSC(CS)(  Bachelor of Science in Computer.)",
+    "category": "COURSE",
+    "description": "BSc Computer Science (Bachelor of Science in Computer Science) is a three-year undergraduate program that provides foundational knowledge in programming, data structures, algorithms, and software development. It prepares individuals for careers in IT, software engineering, data analysis, and emerging technologies like AI and cybersecurity.",
+    "image": "/cs.webp",
+    "fees": "₹55,000/Year"
+  },
+  {
+    "id": 6,
+    "title": "BSC(AG)(Bachelor of Science in Agriculture.)",
+    "category": "COURSE",
+    "description": "BSc Agriculture (Bachelor of Science in Agriculture) is a four-year undergraduate program that focuses on agricultural science, crop production, soil management, and modern farming techniques. It prepares individuals for careers in agribusiness, research, rural development, and sustainable farming practices.",
+    "image": "/ag.webp",
+    "fees": "₹55,000/Year"
+  }
+]
